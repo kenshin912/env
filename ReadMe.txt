@@ -1,32 +1,32 @@
-                      PigCMS ��װ����
-��������һ�����ٲ���İ�װ����,����Apache,MariaDB,PHP.
+                      PigCMS 安装环境
+本程序是一个快速部署的安装环境,包含Apache,MariaDB,PHP.
 
-����汾:
+程序版本:
 Apache :2.4.18
 PHP    :5.4.45
 MariaDB:10.1.8
 
-����汾:
+组件版本:
 Zend Guard Loader V3.3 for PHP5.4
 ionCube Loader 5.0.17
 
-��װ:
-˫��env.exe�������Խ�ѹ������Ŀ¼(·���в���������,������Ż��߿ո��) ����.
-�Թ���Ա��������PigCoreĿ¼�µ�Install.cmd���а�װ.
+安装:
+双击env.exe将程序自解压到任意目录(路径中不包含中文,特殊符号或者空格等) 即可.
+以管理员身份运行PigCore目录下的Install.cmd进行安装.
 
-ʹ��:
-˫������Pig.cmd���ɴ򿪿��������в���.
+使用:
+双击运行Pig.cmd即可打开控制面板进行操作.
 
-ж��:
-����ʹ�ñ�����,���߽��������ƶ�������Ŀ¼֮ǰ��ִ��ж�ز���.
-�Թ���Ա��������PigCoreĿ¼�µ�Uninstall.cmd����ж��.
+卸载:
+不再使用本程序,或者将本程序移动到其他目录之前请执行卸载操作.
+以管理员身份运行PigCore目录下的Uninstall.cmd进行卸载.
 
-���û���:
+适用环境:
 Microsoft Windows 2008 / Microsoft Windows 2008 R2 / Microsoft Windows 2012
 
-����:
+依赖:
 Microsoft Visual C++ 2008
-7z(�Զ����ݻ�ʹ�ø�����)
+7z(自动备份会使用该软件)
 
 
 PigCMS env
@@ -40,7 +40,7 @@ Zend Guard Loader V3.3 for PHP5.4
 ionCube Loader 5.0.17
 
 Install:
-double cilck "env.exe", choose a path to unzip program.
+double click "env.exe", choose a path to unzip program.
 run "PigCore/Install.cmd" as administrator will install automatically
 
 Uninstall:
